@@ -27,15 +27,9 @@ I'm an experienced coder who is interested in a lot of things related to AWS, De
 <p align="center"
   <a href="https://github.com/TomBeckett">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomBeckett&theme=great-gatsby&layout=compact&count_private=true" alt="Most used Languages"/>    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TomBeckett&theme=tokyonight&show_icons=true&count_private=true&hide=stars" />
   </a>
 </p>
-  
-<div>
-  <p align=center>
-    <img height="350"  src="https://lostgirljourney-on-github.herokuapp.com/graph?username=TomBeckett&theme=dracula&bg_color=000000&hide_border=true" alt="GitHub Activity" />
-  </p>
-</div>
+
 
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
