@@ -1,5 +1,41 @@
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=TomBeckett&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&count_private=true"/>
+## Hi there 👋 
+
+This page was designed to look good **on dark mode**, try it!
+
+I'm an experienced coder who is interested in a lot of things related to AWS, DevSecOps, Developer Experience (DX) and programming and who's got a lot of fingers in a lot of different pies. I'm a generalist to get the big picture of all things coding. A jack-of-all-trades, if you will.
+
+### A bit about me
+
+- 🔭 I’ve recently taken a career break and working am now at a startup.
+
+- 🌱 I’m also expanding my knowldge in Flutter, Firebase and a few others. 
+
+- 👯 I’m looking to collaborate on real-world problems and hope to make a lasting impact in the STEM community.
+
+- 🤔 **I try to contribute to open-source/FOSS projects daily**, so if you run across something interesting, or you need some help, let me know.
+
+- 💬 Ask me about anything related to my coding skills. I can also direct you to free, reputed FOSS resources online to learn in-demand tech skills these days!
+
+- 📫 Reach me by <a href="mailto:tpbeckett@gmail.com">email.</a> 
+
+<div>
+  <p align="center">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=TomBeckett&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  </p>
+</div>
+
+<p align="center"
+  <a href="https://github.com/ahcodes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomBeckett&theme=great-gatsby&layout=compact" alt="Most used Languages"/>    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TomBeckett&theme=tokyonight&show_icons=true&count_private=true" />
+  </a>
 </p>
+  
+<div>
+  <p align=center>
+    <img height="350"  src="https://lostgirljourney-on-github.herokuapp.com/graph?username=TomBeckett&theme=dracula&bg_color=000000&hide_border=true" alt="GitHub Activity" />
+  </p>
+</div>
+
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
