@@ -25,9 +25,9 @@ I'm an experienced coder who is interested in a lot of things related to AWS, De
 </div>
 
 <p align="center"
-  <a href="https://github.com/ahcodes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomBeckett&theme=great-gatsby&layout=compact" alt="Most used Languages"/>    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TomBeckett&theme=tokyonight&show_icons=true&count_private=true" />
+  <a href="https://github.com/TomBeckett">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomBeckett&theme=great-gatsby&layout=compact&count_private=true" alt="Most used Languages"/>    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TomBeckett&theme=tokyonight&show_icons=true&count_private=true&hide=stars" />
   </a>
 </p>
   
